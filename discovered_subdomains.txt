@@ -1,0 +1,4 @@
+http://www.amazon.com
+http://mobile.amazon.com
+http://api.amazon.com
+http://m.amazon.com
