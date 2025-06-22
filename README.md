@@ -1,37 +1,48 @@
-Certainly! Here's your content formatted in Markdown to look clear, professional, and similar to the style you've shown:
 
-```markdown
-# 🕵️‍♂ Subdomain Enumeration Tool in Python
+---
 
-## 📖 About the Program
+# Subdomain Enumeration Tool in Python
+
+## About the Program
+
 This Python project is a **Subdomain Enumeration Tool** that helps identify active subdomains of a target website using a wordlist.
 
-### It is useful for:
-- ✅ Penetration Testing
-- ✅ Ethical Hacking
-- ✅ Bug Bounty Hunting
-- ✅ Web Application Security Assessments
+It is useful for:
 
-### The program utilizes:
-- User input for the target domain
-- Validation to check if the domain is correctly formatted and reachable
-- Multi-threading for fast subdomain scanning
-- File output to save the discovered subdomains
+* Penetration Testing
+* Ethical Hacking
+* Bug Bounty Hunting
+* Web Application Security Assessments
 
-## 🚀 Applications
-- ✅ **Subdomain Enumeration:** Find hidden or less-known subdomains that could lead to security weaknesses
-- ✅ **Web Application Mapping:** Build a comprehensive structure of a website
-- ✅ **Bug Bounty Hunting:** Discover hidden endpoints that might be exploitable
-- ✅ **Security Audits:** Assess the scope of web assets for large organizations
+The program utilizes:
 
-## 🛠️ Skills Learned
-- 📌 Python fundamentals: loops, functions, file handling
-- 📌 Regular expressions for input validation
-- 📌 HTTP requests using the `requests` library
-- 📌 Multi-threading for concurrent execution
-- 📌 Safe thread management using locks
-- 📌 Basic security concepts like subdomain enumeration and target discovery
-- 📌 Command-line input/output management
+* User input for the target domain
+* Validation to check if the domain is correctly formatted and reachable
+* Multi-threading for fast subdomain scanning
+* File output to save the discovered subdomains
+
+---
+
+## Applications
+
+* **Subdomain Enumeration:** Find hidden or less-known subdomains that could lead to security weaknesses
+* **Web Application Mapping:** Build a comprehensive structure of a website
+* **Bug Bounty Hunting:** Discover hidden endpoints that might be exploitable
+* **Security Audits:** Assess the scope of web assets for large organizations
+
+---
+
+## Skills Learned
+
+* **Python fundamentals:** loops, functions, file handling
+* **Regular expressions:** for input validation
+* **HTTP requests:** using the `requests` library
+* **Multi-threading:** for concurrent execution
+* **Safe thread management:** using locks
+* **Basic security concepts:** like subdomain enumeration and target discovery
+* **Command-line input/output management**
+
+---
 
 ## 🖥️ How to Use or Run the Tool
 
@@ -106,7 +117,6 @@ This project is open-source and available under the MIT License.
 
 
 **Happy Security Testing!** 🚀
-```
 
----
+
 
